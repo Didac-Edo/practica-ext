@@ -1,0 +1,16 @@
+{
+    "name": "deg/exercici1didac-edo",
+    "description": "Exercici1",
+    "authors": [
+        {
+            "name": "Didac Edo",
+            "email": "didac.edo@gracia.lasalle.cat"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
